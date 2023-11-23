@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋,We Are 👑Group 8👑</h1>
 <img align="right" src="https://th.bing.com/th/id/OIG._mmqVjNHmBjD7RXCGsyl?w=1024&h=1024&rs=1&pid=ImgDetMain" alt"poster">
+<h3>INTRODUCTION</h3>
+<p>- AFZAAL ISNAUFAL (1302220104)</p>
+<p>- Athallah Mohammad Abdul Aziz (1302223125)</p>
+<p>- Salman Hamala Rizky (1302220122 )</p>
+<p>- Muhammad Rizki (1302220128)</p>
+
 - 👯 We Are collaborating For🔭 [TUGAS BESAR METODE FORMAL]
 - 👨‍💻 All of our project are available at [GDOCS LINK :](https://docs.google.com/document/d/1t_SD1uZPEPZY6fkky4distyd7mn9DCyfD5Ds_oKqMOs/edit?usp=sharing)
 
