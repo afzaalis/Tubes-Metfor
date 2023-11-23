@@ -5,6 +5,10 @@
 - 👨‍💻 All of our project are available at [GDOCS LINK :](https://docs.google.com/document/d/1t_SD1uZPEPZY6fkky4distyd7mn9DCyfD5Ds_oKqMOs/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afzaalis&show_icons=true&locale=en&layout=compact" alt="afzaalis" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afzaalis&show_icons=true&locale=en" alt="afzaalis" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afzaalis&" alt="afzaalis" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=athalhm&" alt="ata" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadrizki04&" alt="rizki" /></p>
