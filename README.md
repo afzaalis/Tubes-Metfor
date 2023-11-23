@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋,We Are From 👑Group 5👑</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=afzaalis&label=Profile%20views&color=0e75b6&style=flat" alt="afzaalis" /> </p>
+<h1 align="center">Hi 👋,We Are 👑Group 5👑</h1>
+<img src=" https://th.bing.com/th/id/OIG._mmqVjNHmBjD7RXCGsyl?w=1024&h=1024&rs=1&pid=ImgDetMain" alt="poster"> 
 
 - 👯 We Are collaborating For🔭 [TUGAS BESAR METODE FORMAL](https://docs.google.com/document/d/1t_SD1uZPEPZY6fkky4distyd7mn9DCyfD5Ds_oKqMOs/edit?usp=sharing)
 
