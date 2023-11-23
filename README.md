@@ -1,5 +1,5 @@
 <h1 align="center">We Are 👑Group 8👑</h1>
-<img align="right" src="https://th.bing.com/th/id/OIG._mmqVjNHmBjD7RXCGsyl?w=1024&h=1024&rs=1&pid=ImgDetMain" alt"poster">
+<img align="right" src="[https://th.bing.com/th/id/OIG._mmqVjNHmBjD7RXCGsyl?w=1024&h=1024&rs=1&pid=ImgDetMain](https://th.bing.com/th/id/OIG.I1k_1ttYnCXGn2In5lS7?pid=ImgGn)" alt"poster">
 <h3>INTRODUCTION</h3>
 <p>- AFZAAL ISNAUFAL (1302220104)</p>
 <p>- Athallah Mohammad Abdul Aziz (1302223125)</p>
