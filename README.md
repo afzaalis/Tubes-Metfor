@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,We Are 👑Group 5👑</h1>
-![Uploading WhatsApp Image 2023-11-23 at 18.22.30.jpeg…]()
+![4BOCAH IT](https://github.com/afzaalis/Tubes-Metfor/assets/70215760/00efacb2-b133-479f-b6aa-0e42629f517a)
 
 - 👯 We Are collaborating For🔭 [TUGAS BESAR METODE FORMAL](https://docs.google.com/document/d/1t_SD1uZPEPZY6fkky4distyd7mn9DCyfD5Ds_oKqMOs/edit?usp=sharing)
 
