@@ -7,12 +7,8 @@
 <h3 align="left">Connect with me:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afzaalis&show_icons=true&locale=en&layout=compact" alt="afzaalis" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afzaalis&show_icons=true&locale=en" alt="afzaalis" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afzaalis&" alt="afzaalis" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=athalhm&" alt="ata" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadrizki04&" alt="rizki" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salman.hary&" alt="salman" /></p>
+
 <p align="left">
 </p>
 
