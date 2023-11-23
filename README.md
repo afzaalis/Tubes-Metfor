@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋,We Are 👑Group 5👑</h1>
+![4BOCAH IT](https://github.com/afzaalis/Tubes-Metfor/assets/70215760/a8c1f04c-380d-4166-9857-1865415a385e)
 
 - 👯 We Are collaborating For🔭 [TUGAS BESAR METODE FORMAL](https://docs.google.com/document/d/1t_SD1uZPEPZY6fkky4distyd7mn9DCyfD5Ds_oKqMOs/edit?usp=sharing)
 
