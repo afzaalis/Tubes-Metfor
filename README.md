@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋,We From 👑Group 5👑</h1>
+<h1 align="center">Hi 👋,We Are From 👑Group 5👑</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afzaalis&label=Profile%20views&color=0e75b6&style=flat" alt="afzaalis" /> </p>
 
 - 👯 We Are collaborating For🔭 [TUGAS BESAR METODE FORMAL](https://docs.google.com/document/d/1t_SD1uZPEPZY6fkky4distyd7mn9DCyfD5Ds_oKqMOs/edit?usp=sharing)
