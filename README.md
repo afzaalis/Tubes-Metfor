@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋,We Are 👑Group 8👑</h1>
+<h1 align="center">We Are 👑Group 8👑</h1>
 <img align="right" src="https://th.bing.com/th/id/OIG._mmqVjNHmBjD7RXCGsyl?w=1024&h=1024&rs=1&pid=ImgDetMain" alt"poster">
 <h3>INTRODUCTION</h3>
 <p>- AFZAAL ISNAUFAL (1302220104)</p>
