@@ -1,6 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋,We Are 👑Group 5👑</h1>
-<img src=" https://th.bing.com/th/id/OIG._mmqVjNHmBjD7RXCGsyl?w=1024&h=1024&rs=1&pid=ImgDetMain" alt="poster"> 
+<img src=" https://th.bing.com/th/id/OIG._mmqVjNHmBjD7RXCGsyl?w=1024&h=1024&rs=1&pid=ImgDetMain" > 
 
 - 👯 We Are collaborating For🔭 [TUGAS BESAR METODE FORMAL](https://docs.google.com/document/d/1t_SD1uZPEPZY6fkky4distyd7mn9DCyfD5Ds_oKqMOs/edit?usp=sharing)
 
